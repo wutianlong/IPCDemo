@@ -38,3 +38,21 @@ captures/
 
 # Keystore files
 *.jks
+
+IPCClient/*.iml
+IPCClient/.gradle
+IPCClient/local.properties
+IPCClient/.idea/*
+IPCClient/.idea/libraries
+IPCClient/.DS_Store
+IPCClient/build
+IPCClient/captures
+
+IPCServer/*.iml
+IPCServer/.gradle
+IPCServer/local.properties
+IPCServer/.idea/*
+IPCServer/.idea/libraries
+IPCServer/.DS_Store
+IPCServer/build
+IPCServer/captures
